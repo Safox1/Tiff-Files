@@ -1,2 +1,3 @@
 # Tiff-Files
-5 different ways to read Tiff Files
+##There are 5 different ways to read Tiff Files
+_____________________________________________________________________________________________________
